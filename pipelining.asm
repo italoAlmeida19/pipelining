@@ -1,3 +1,6 @@
+#Ítalo de Almeida Ribeiro
+#Alexandre Rocha da Silva Moreira
+
 # Segmento de dados globais
 .data
     msgSoma:    .asciiz    "Soma: "
