@@ -21,6 +21,7 @@ main:
     jal     inicializaVetor # Chama a função inicializaVetor
     li      $a2, 71         # Terceiro parâmetro: 71
     move    $s1, $v0        # Guarda o retorno da função em soma
+    aa
     
     # Chama a função imprimeVetor
     move    $a0, $s0        # Primeiro parâmetro: vet
